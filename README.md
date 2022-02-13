@@ -1,4 +1,4 @@
-*Search Engine*
+*Journal Search Engine*
 
 This search engine was designed based on the data structure of the master.json file, which contains information on journals retrieved from the Nanyang Technological University library. These are the basic functions of the search engine:
 
